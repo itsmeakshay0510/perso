@@ -1,0 +1,5 @@
+{
+  "name": "Aura: Personal AI Memory Engine",
+  "description": "A Jarvis-like AI that remembers everything, learns your patterns, and provides personalized suggestions based on your history.",
+  "requestFramePermissions": []
+}
